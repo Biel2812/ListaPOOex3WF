@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\PJ03\PJ03\bin\Debug\PJ03.exe.config
+C:\Users\aluno\source\repos\PJ03\PJ03\bin\Debug\PJ03.exe
+C:\Users\aluno\source\repos\PJ03\PJ03\bin\Debug\PJ03.pdb
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.frmQuadrado.resources
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.Properties.Resources.resources
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.exe
+C:\Users\aluno\source\repos\PJ03\PJ03\obj\Debug\PJ03.pdb
